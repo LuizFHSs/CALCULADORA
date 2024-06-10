@@ -2,3 +2,6 @@
 
 ## CALCULADORA
 
+### TECNOLOGIAS
+``.NET`` | ``C#``
+
